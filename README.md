@@ -1,4 +1,4 @@
-- 👋 Hi,everyone  I’m David .
+- 👋 Hi,everyone  I’m David ,studying Computer Engineering in DBU.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning some programming languages that help for webdevelopment journey.
 - 💞️ I’m looking to collaborate on numerous real world projects
